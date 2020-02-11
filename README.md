@@ -1,4 +1,4 @@
-Исходные файлы взяты из [loginom-install/wix/l10n](../../../../loginom-install/tree/master/wix/l10n)
+Исходные файлы взяты из проекта **loginom-install** папка **wix/l10n**.
 
 ### Интеграция с LingoHub
 
