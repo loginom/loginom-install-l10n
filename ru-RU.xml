@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WixLocalization Culture="ru-Ru" xmlns="http://schemas.microsoft.com/wix/2006/localization">
+    <string name="DowngradeErrorMessage">Более новая версия продукта уже установлена</string>
+    <string name="Documentation">Документация</string>
+    <string name="DocumentationOnlineLink">Документация на сайте</string>
+    <string name="Licenses">Лицензии</string>
+    <string name="ServerLicensesLink">Лицензии Server</string>
+    <string name="StudioLicensesLink">Лицензии Studio</string>
+    <!-- Сервер -->
+    <string name="WebSrv">Веб-сервер</string>
+    <string name="WebSrvDescription">Веб-сервер Apache Httpd</string>
+    <string name="StartServerLink">Запуск сервера</string>
+    <string name="ServerWorkDirLink">Рабочий каталог Loginom Server</string>
+    <string name="ServerConfiguratorLink">Конфигуратор Loginom Server</string>
+    <string name="WebSrvConfLink">Конфигурация веб-сервера</string>
+    <string name="StartWebSrvLink">Запуск веб-сервера</string>
+    <!-- Интегратор -->
+    <string name="NetFramework45IsNotInstalled">Для установки требуется .Net версии не ниже 4.5</string>
+    <string name="WebConfigFileLink">Конфигурационный файл</string>
+    <string name="SOAPLink">Описание SOAP сервиса</string>
+    <string name="RESTLink">Описание REST сервиса</string>
+    <!-- Guardant -->
+    <string name="GuardantDescription">Установить драйверы ключей Guardant (если требуется) и мастер активации SP-ключей</string>
+    <string name="GuardantSP">Мастер активации SP-ключей</string>
+    <string name="GuardantSPPDF">Активация SP-ключей</string>
+    <!-- Tableau -->
+    <string name="TableauSDKDescription">Установить Tableau SDK.</string>
+    <string name="DownloadingTemplate">Загружено [1] из [2] байт. [3]% завершено...</string>
+    <string name="ExtractingTemplate">Установка: [1]. [2] из [3] байт. [4]% завершено...</string>
+    <string name="TableauSDKDownloading">Загрузка Tableau SDK...</string>
+    <string name="TableauSDKExtracting">Установка Tableau SDK...</string>
+    <string name="TableauExtractAPIDownloading">Загрузка Tableau Extract API 2.0...</string>
+    <string name="TableauExtractAPIExtracting">Установка Tableau Extract API 2.0...</string>
+    <!-- UI -->
+    <string name="DialogTitle">Установка [ProductName]</string>
+    <string name="AdditionalTasksDlgTitle">Выберите дополнительные задачи</string>
+    <string name="AdditionalTasksDlgDescription">Какие дополнительные задачи необходимо выполнить?</string>
+    <string name="InstallShortcutCaption">Создать ярлык на рабочем столе</string>
+    <string name="InstallFileAssociationLGPCaption">Связать [ProductName] с файлами, имеющими расширение .lgp</string>
+    <string name="LaunchAppCaption">Запустить [ProductName]</string>
+    <string name="WebSrvParametersDlgTitle">Параметры веб-сервера</string>
+    <string name="HTTPPort">Порт HTTP</string>
+    <string name="HTTPSPort">Порт HTTPS</string>
+    <string name="UseHTTPS">Использовать HTTPS</string>
+    <string name="UseWebSocketProxy">Использовать WebSocket proxy</string>
+    <string name="UseWebSocketSecure">Использовать WebSocket secure</string>
+    <string name="SSLCertificate">Сертификат SSL</string>
+    <string name="SSLKey">Ключ SSL</string>
+    <string name="ServerParametersDlgTitle">Параметры Loginom Server</string>
+    <string name="ServerPort">Порт сервера</string>
+    <string name="WSPort">Порт WS</string>
+    <string name="WSSPort">Порт WSS</string>
+    <string name="WebAppParametersDlgTitle">Параметры Loginom Studio</string>
+    <string name="WebAppCatalog">Каталог веб-приложения</string>
+    <string name="WebAppURL">URL веб-приложения</string>
+    <string name="LoginomServerConnect">Подключение к серверу Loginom</string>
+    <string name="Host">Хост</string>
+    <string name="AlwaysUseSecureConnection">Всегда использовать безопасное подключение</string>
+    <string name="UpgradeDlgTitle">Обнаружена предыдущая версия [ProductName]</string>
+    <string name="SelectAction">Выберите действие</string>
+    <string name="Update">Обновить</string>
+    <string name="Reinstall">Переустановить</string>
+    <string name="IntegratorSettingsDlgTitle">Настройка</string>
+    <string name="IntegratorSettingsDlgDescription">Конфигурация приложения</string>
+    <string name="Site">Сайт</string>
+    <string name="Port">Порт</string>
+    <string name="Application">Приложение</string>
+    <string name="ApplicationPool">Пул приложений</string>
+    <string name="InstallWinFeatures">Установить требуемые компоненты</string>
+    <string name="Login">Логин</string>
+    <string name="Password">Пароль</string>
+    <string name="ShowPassword">Показывать пароль</string>
+    <!-- [9] - путь назначения, [1] - имя файла -->
+    <string name="ProgressTextInstallFilesTemplate">[9][1]</string>
+</WixLocalization>
