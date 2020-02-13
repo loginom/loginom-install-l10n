@@ -1,75 +1,75 @@
-<?xml version="1.0" encoding="utf-8"?>
-<WixLocalization Culture="en-US" xmlns="http://schemas.microsoft.com/wix/2006/localization">
-    <string name="DowngradeErrorMessage">New version is available</string>
-    <string name="Documentation">Documentation</string>
-    <string name="DocumentationOnlineLink">Documentation Online</string>
-    <string name="Licenses">Licenses</string>
-    <string name="ServerLicensesLink">Licenses of Server</string>
-    <string name="StudioLicensesLink">Licenses of Studio</string>
-    <!-- Сервер -->
-    <string name="WebSrv">Web Server</string>
-    <string name="WebSrvDescription">Apache HTTP Server</string>
-    <string name="StartServerLink">Start Server</string>
-    <string name="ServerWorkDirLink">Loginom Server Working Directory</string>
-    <string name="ServerConfiguratorLink">Loginom Server Configurator</string>
-    <string name="WebSrvConfLink">Web Server Configuration</string>
-    <string name="StartWebSrvLink">Start Web Server</string>
-    <!-- Интегратор -->
-    <string name="NetFramework45IsNotInstalled">NET 4.5 is not installed</string>
-    <string name="WebConfigFileLink">Configuration File</string>
-    <string name="SOAPLink">SOAP Service Description</string>
-    <string name="RESTLink">REST Service Description</string>
-    <!-- Guardant -->
-    <string name="GuardantDescription">Install Guardant Dongle Drivers (if necessary) and Guardant Activation Wizard</string>
-    <string name="GuardantSP">Guardant Activation Wizard</string>
-    <string name="GuardantSPPDF">Guardant Activation</string>
-    <!-- Tableau -->
-    <string name="TableauSDKDescription">Install Tableau SDK.</string>
-    <string name="DownloadingTemplate">Downloaded [1] of [2] bytes. [3]% complete...</string>
-    <string name="ExtractingTemplate">Installing: [1]. [2] of [3] bytes. [4]% complete...</string>
-    <string name="TableauSDKDownloading">Tableau SDK downloading...</string>
-    <string name="TableauSDKExtracting">Tableau SDK extracting...</string>
-    <string name="TableauExtractAPIDownloading">Tableau Extract API 2.0 downloading...</string>
-    <string name="TableauExtractAPIExtracting">Tableau Extract API 2.0 extracting...</string>
-    <!-- UI -->
-    <string name="DialogTitle">[ProductName] Setup</string>
-    <string name="AdditionalTasksDlgTitle">Select Additional Tasks</string>
-    <string name="AdditionalTasksDlgDescription">Which additional tasks should be performed?</string>
-    <string name="InstallShortcutCaption">Create desktop shortcut</string>
-    <string name="InstallFileAssociationLGPCaption">Associate [ProductName] with files having .lgp extension</string>
-    <string name="LaunchAppCaption">Launch [ProductName]</string>
-    <string name="WebSrvParametersDlgTitle">Web Server Parameters</string>
-    <string name="HTTPPort">HTTP port</string>
-    <string name="HTTPSPort">HTTPS port</string>
-    <string name="UseHTTPS">Use HTTPS</string>
-    <string name="UseWebSocketProxy">Use WebSocket proxy</string>
-    <string name="UseWebSocketSecure">Use WebSocket secure</string>
-    <string name="SSLCertificate">SSL Certificate</string>
-    <string name="SSLKey">SSL Key</string>
-    <string name="ServerParametersDlgTitle">Loginom Server Parameters</string>
-    <string name="ServerPort">Server port</string>
-    <string name="WSPort">WS port</string>
-    <string name="WSSPort">WSS port</string>
-    <string name="WebAppParametersDlgTitle">Loginom Studio Parameters</string>
-    <string name="WebAppCatalog">Web application catalog</string>
-    <string name="WebAppURL">Web application URL</string>
-    <string name="LoginomServerConnect">Connection to Loginom Server</string>
-    <string name="Host">Host</string>
-    <string name="AlwaysUseSecureConnection">Always use secure connection</string>
-    <string name="UpgradeDlgTitle">Old Version of [ProductName] Found</string>
-    <string name="SelectAction">Select operation</string>
-    <string name="Update">Update</string>
-    <string name="Reinstall">Reinstall</string>
-    <string name="IntegratorSettingsDlgTitle">Settings</string>
-    <string name="IntegratorSettingsDlgDescription">Application configuration</string>
-    <string name="Site">Site</string>
-    <string name="Port">Port</string>
-    <string name="Application">Application</string>
-    <string name="ApplicationPool">Application pool</string>
-    <string name="InstallWinFeatures">Install required features</string>
-    <string name="Login">Login</string>
-    <string name="Password">Password</string>
-    <string name="ShowPassword">Show password</string>
-    <!-- [9] - путь назначения, [1] - имя файла -->
-    <string name="ProgressTextInstallFilesTemplate">[9][1]</string>
-</WixLocalization>
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns="http://schemas.microsoft.com/wix/2006/localization" Culture="en-US">
+  <string name="DowngradeErrorMessage">Newer version already installed</string>
+  <string name="Documentation">Documents</string>
+  <string name="DocumentationOnlineLink">Documents Online</string>
+  <string name="Licenses">Licenses</string>
+  <string name="ServerLicensesLink">Server Licenses</string>
+  <string name="StudioLicensesLink">Studio Licenses</string>
+  <!--Сервер-->
+  <string name="WebSrv">Web Server</string>
+  <string name="WebSrvDescription">Apache HTTP Server</string>
+  <string name="StartServerLink">Server Start</string>
+  <string name="ServerWorkDirLink">Loginom Server Working Directory</string>
+  <string name="ServerConfiguratorLink">Loginom Server Configurator</string>
+  <string name="WebSrvConfLink">Web Server Configuration</string>
+  <string name="StartWebSrvLink">Web Server Start</string>
+  <!--Интегратор-->
+  <string name="NetFramework45IsNotInstalled">.Net 4.5 or higher to be installed</string>
+  <string name="WebConfigFileLink">Configuration File</string>
+  <string name="SOAPLink">SOAP Service Description</string>
+  <string name="RESTLink">REST Service Description</string>
+  <!--Guardant-->
+  <string name="GuardantDescription">Install Guardant dongle drivers (if required) and SP dongle activation wizard</string>
+  <string name="GuardantSP">SP Dongle Activation Wizard</string>
+  <string name="GuardantSPPDF">SP Dongle Activation</string>
+  <!--Tableau-->
+  <string name="TableauSDKDescription">Install Tableau SDK.</string>
+  <string name="DownloadingTemplate">Downloaded [1] of [2] bytes. [3]&#0037; completed...</string>
+  <string name="ExtractingTemplate">Installing: [1]. [2] of [3] bytes. [4]&#0037; completed...</string>
+  <string name="TableauSDKDownloading">Downloading Tableau SDK...</string>
+  <string name="TableauSDKExtracting">Installing Tableau SDK...</string>
+  <string name="TableauExtractAPIDownloading">Downloading Tableau Extract API 2.0...</string>
+  <string name="TableauExtractAPIExtracting">Installing Tableau Extract API 2.0...</string>
+  <!--UI-->
+  <string name="DialogTitle">Installing [ProductName]</string>
+  <string name="AdditionalTasksDlgTitle">Select Additional Tasks</string>
+  <string name="AdditionalTasksDlgDescription">What additional tasks should be performed?</string>
+  <string name="InstallShortcutCaption">Create Desktop Shortcut</string>
+  <string name="InstallFileAssociationLGPCaption">Connect [ProductName] with .lgp Extension Files</string>
+  <string name="LaunchAppCaption">Run [ProductName]</string>
+  <string name="WebSrvParametersDlgTitle">Web Server Parameters</string>
+  <string name="HTTPPort">HTTP Port</string>
+  <string name="HTTPSPort">HTTPS Port</string>
+  <string name="UseHTTPS">Use HTTPS</string>
+  <string name="UseWebSocketProxy">Use WebSocket proxy</string>
+  <string name="UseWebSocketSecure">Use WebSocket secure</string>
+  <string name="SSLCertificate">SSL Certificate</string>
+  <string name="SSLKey">SSL Key</string>
+  <string name="ServerParametersDlgTitle">Loginom Server Parameters</string>
+  <string name="ServerPort">Server Port</string>
+  <string name="WSPort">WS Port</string>
+  <string name="WSSPort">WSS Port</string>
+  <string name="WebAppParametersDlgTitle">Loginom Studio Parameters</string>
+  <string name="WebAppCatalog">Web Application Directory</string>
+  <string name="WebAppURL">Web Application URL</string>
+  <string name="LoginomServerConnect">Connect to Loginom Server</string>
+  <string name="Host">Host</string>
+  <string name="AlwaysUseSecureConnection">Always use secure connection</string>
+  <string name="UpgradeDlgTitle">Previous Version of [ProductName] Found</string>
+  <string name="SelectAction">Select Action</string>
+  <string name="Update">Update</string>
+  <string name="Reinstall">Reinstall</string>
+  <string name="IntegratorSettingsDlgTitle">Settings</string>
+  <string name="IntegratorSettingsDlgDescription">Application Configuration</string>
+  <string name="Site">Site</string>
+  <string name="Port">Port</string>
+  <string name="Application">Application</string>
+  <string name="ApplicationPool">Application Pool</string>
+  <string name="InstallWinFeatures">Install Required Features</string>
+  <string name="Login">Login</string>
+  <string name="Password">Password</string>
+  <string name="ShowPassword">Show Password</string>
+  <!--[9] - путь назначения, [1] - имя файла-->
+  <string name="ProgressTextInstallFilesTemplate">[9][1]</string>
+</resources>
