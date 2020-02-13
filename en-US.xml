@@ -20,7 +20,7 @@
   <string name="SOAPLink">SOAP Service Description</string>
   <string name="RESTLink">REST Service Description</string>
   <!--Guardant-->
-  <string name="GuardantDescription">Install Guardant dongle drivers (if required) and SP dongle activation wizard</string>
+  <string name="GuardantDescription">Install Guardant dongle activation wizard and dongle drivers (if required)</string>
   <string name="GuardantSP">SP Dongle Activation Wizard</string>
   <string name="GuardantSPPDF">SP Dongle Activation</string>
   <!--Tableau-->
