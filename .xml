@@ -36,7 +36,7 @@
   <string name="AdditionalTasksDlgTitle">Выберите дополнительные задачи</string>
   <string name="AdditionalTasksDlgDescription">Какие дополнительные задачи необходимо выполнить?</string>
   <string name="InstallShortcutCaption">Создать ярлык на рабочем столе</string>
-  <string name="InstallFileAssociationLGPCaption">Связать [ProductName] с файлами, имеющими расширение .lgp</string>
+  <string name="InstallFileAssociationLGPCaption">Ассоциировать файлы, имеющие расширение .lgp, с [ProductName]</string>
   <string name="LaunchAppCaption">Запустить [ProductName]</string>
   <string name="WebSrvParametersDlgTitle">Параметры веб-сервера</string>
   <string name="HTTPPort">Порт HTTP</string>
