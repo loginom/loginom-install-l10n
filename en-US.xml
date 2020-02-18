@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources xmlns="http://schemas.microsoft.com/wix/2006/localization" Culture="en-US">
   <string name="DowngradeErrorMessage">Newer version already installed</string>
-  <string name="Documentation">Documents</string>
-  <string name="DocumentationOnlineLink">Documents Online</string>
+  <string name="Documentation">Documentation</string>
+  <string name="DocumentationOnlineLink">Online Documentation</string>
   <string name="Licenses">Licenses</string>
   <string name="ServerLicensesLink">Server Licenses</string>
   <string name="StudioLicensesLink">Studio Licenses</string>
   <!--Сервер-->
   <string name="WebSrv">Web Server</string>
   <string name="WebSrvDescription">Apache HTTP Server</string>
-  <string name="StartServerLink">Server Start</string>
+  <string name="StartServerLink">Start Server</string>
   <string name="ServerWorkDirLink">Loginom Server Working Directory</string>
   <string name="ServerConfiguratorLink">Loginom Server Configurator</string>
   <string name="WebSrvConfLink">Web Server Configuration</string>
-  <string name="StartWebSrvLink">Web Server Start</string>
+  <string name="StartWebSrvLink">Start Web Server</string>
   <!--Интегратор-->
-  <string name="NetFramework45IsNotInstalled">.Net 4.5 or higher to be installed</string>
+  <string name="NetFramework45IsNotInstalled">Please install the .NET Framework 4.5 or higher</string>
   <string name="WebConfigFileLink">Configuration File</string>
   <string name="SOAPLink">SOAP Service Description</string>
   <string name="RESTLink">REST Service Description</string>
   <!--Guardant-->
-  <string name="GuardantDescription">Install Guardant dongle activation wizard and dongle drivers (if required)</string>
-  <string name="GuardantSP">SP Dongle Activation Wizard</string>
-  <string name="GuardantSPPDF">SP Dongle Activation</string>
+  <string name="GuardantDescription">Install Guardant Activation Wizard and Dongle Drivers (if required)</string>
+  <string name="GuardantSP">Guardant Activation Wizard</string>
+  <string name="GuardantSPPDF">Guardant Activation Wizard Guide</string>
   <!--Tableau-->
   <string name="TableauSDKDescription">Install Tableau SDK.</string>
   <string name="DownloadingTemplate">Downloaded [1] of [2] bytes. [3]&#0037; completed...</string>
@@ -32,12 +32,12 @@
   <string name="TableauExtractAPIDownloading">Downloading Tableau Extract API 2.0...</string>
   <string name="TableauExtractAPIExtracting">Installing Tableau Extract API 2.0...</string>
   <!--UI-->
-  <string name="DialogTitle">Installing [ProductName]</string>
+  <string name="DialogTitle">[ProductName] Setup</string>
   <string name="AdditionalTasksDlgTitle">Select Additional Tasks</string>
   <string name="AdditionalTasksDlgDescription">What additional tasks should be performed?</string>
   <string name="InstallShortcutCaption">Create Desktop Shortcut</string>
-  <string name="InstallFileAssociationLGPCaption">Connect [ProductName] with .lgp Extension Files</string>
-  <string name="LaunchAppCaption">Run [ProductName]</string>
+  <string name="InstallFileAssociationLGPCaption">Associate .lgp extension files with [ProductName]</string>
+  <string name="LaunchAppCaption">Launch [ProductName]</string>
   <string name="WebSrvParametersDlgTitle">Web Server Parameters</string>
   <string name="HTTPPort">HTTP Port</string>
   <string name="HTTPSPort">HTTPS Port</string>
@@ -51,9 +51,9 @@
   <string name="WSPort">WS Port</string>
   <string name="WSSPort">WSS Port</string>
   <string name="WebAppParametersDlgTitle">Loginom Studio Parameters</string>
-  <string name="WebAppCatalog">Web Application Directory</string>
+  <string name="WebAppCatalog">Web Application Catalog</string>
   <string name="WebAppURL">Web Application URL</string>
-  <string name="LoginomServerConnect">Connect to Loginom Server</string>
+  <string name="LoginomServerConnect">Loginom Server Connection Settings</string>
   <string name="Host">Host</string>
   <string name="AlwaysUseSecureConnection">Always use secure connection</string>
   <string name="UpgradeDlgTitle">Previous Version of [ProductName] Found</string>
