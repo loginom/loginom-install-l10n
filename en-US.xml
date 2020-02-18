@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources xmlns="http://schemas.microsoft.com/wix/2006/localization" Culture="en-US">
-  <string name="DowngradeErrorMessage">Newer version already installed</string>
+  <string name="DowngradeErrorMessage">A later version of [ProductName] is already installed.</string>
   <string name="Documentation">Documentation</string>
   <string name="DocumentationOnlineLink">Online Documentation</string>
   <string name="Licenses">Licenses</string>
@@ -15,7 +15,7 @@
   <string name="WebSrvConfLink">Web Server Configuration</string>
   <string name="StartWebSrvLink">Start Web Server</string>
   <!--Интегратор-->
-  <string name="NetFramework45IsNotInstalled">Please install the .NET Framework 4.5 or higher</string>
+  <string name="NetFramework45IsNotInstalled">This application requires .NET Framework 4.5 or higher</string>
   <string name="WebConfigFileLink">Configuration File</string>
   <string name="SOAPLink">SOAP Service Description</string>
   <string name="RESTLink">REST Service Description</string>
@@ -35,41 +35,41 @@
   <string name="DialogTitle">[ProductName] Setup</string>
   <string name="AdditionalTasksDlgTitle">Select Additional Tasks</string>
   <string name="AdditionalTasksDlgDescription">What additional tasks should be performed?</string>
-  <string name="InstallShortcutCaption">Create Desktop Shortcut</string>
+  <string name="InstallShortcutCaption">Create desktop shortcut</string>
   <string name="InstallFileAssociationLGPCaption">Associate .lgp extension files with [ProductName]</string>
   <string name="LaunchAppCaption">Launch [ProductName]</string>
   <string name="WebSrvParametersDlgTitle">Web Server Parameters</string>
-  <string name="HTTPPort">HTTP Port</string>
-  <string name="HTTPSPort">HTTPS Port</string>
+  <string name="HTTPPort">HTTP port</string>
+  <string name="HTTPSPort">HTTPS port</string>
   <string name="UseHTTPS">Use HTTPS</string>
   <string name="UseWebSocketProxy">Use WebSocket proxy</string>
   <string name="UseWebSocketSecure">Use WebSocket secure</string>
-  <string name="SSLCertificate">SSL Certificate</string>
-  <string name="SSLKey">SSL Key</string>
+  <string name="SSLCertificate">SSL certificate</string>
+  <string name="SSLKey">SSL key</string>
   <string name="ServerParametersDlgTitle">Loginom Server Parameters</string>
-  <string name="ServerPort">Server Port</string>
-  <string name="WSPort">WS Port</string>
-  <string name="WSSPort">WSS Port</string>
+  <string name="ServerPort">Server port</string>
+  <string name="WSPort">WS port</string>
+  <string name="WSSPort">WSS port</string>
   <string name="WebAppParametersDlgTitle">Loginom Studio Parameters</string>
-  <string name="WebAppCatalog">Web Application Catalog</string>
-  <string name="WebAppURL">Web Application URL</string>
-  <string name="LoginomServerConnect">Loginom Server Connection Settings</string>
+  <string name="WebAppCatalog">Web application catalog</string>
+  <string name="WebAppURL">Web application URL</string>
+  <string name="LoginomServerConnect">Loginom Server Connection</string>
   <string name="Host">Host</string>
   <string name="AlwaysUseSecureConnection">Always use secure connection</string>
-  <string name="UpgradeDlgTitle">Previous Version of [ProductName] Found</string>
-  <string name="SelectAction">Select Action</string>
+  <string name="UpgradeDlgTitle">Upgrade Installation</string>
+  <string name="SelectAction">Select operation</string>
   <string name="Update">Update</string>
   <string name="Reinstall">Reinstall</string>
   <string name="IntegratorSettingsDlgTitle">Settings</string>
-  <string name="IntegratorSettingsDlgDescription">Application Configuration</string>
+  <string name="IntegratorSettingsDlgDescription">Application configuration</string>
   <string name="Site">Site</string>
   <string name="Port">Port</string>
   <string name="Application">Application</string>
-  <string name="ApplicationPool">Application Pool</string>
-  <string name="InstallWinFeatures">Install Required Features</string>
+  <string name="ApplicationPool">Application pool</string>
+  <string name="InstallWinFeatures">Install required features</string>
   <string name="Login">Login</string>
   <string name="Password">Password</string>
-  <string name="ShowPassword">Show Password</string>
+  <string name="ShowPassword">Show password</string>
   <!--[9] - путь назначения, [1] - имя файла-->
   <string name="ProgressTextInstallFilesTemplate">[9][1]</string>
 </resources>

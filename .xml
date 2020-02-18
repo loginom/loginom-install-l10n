@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources xmlns="http://schemas.microsoft.com/wix/2006/localization" Culture="en-US">
-  <string name="DowngradeErrorMessage">Более новая версия продукта уже установлена</string>
+  <string name="DowngradeErrorMessage">Более новая версия [ProductName] уже установлена.</string>
   <string name="Documentation">Документация</string>
   <string name="DocumentationOnlineLink">Документация на сайте</string>
   <string name="Licenses">Лицензии</string>
@@ -56,7 +56,7 @@
   <string name="LoginomServerConnect">Подключение к серверу Loginom</string>
   <string name="Host">Хост</string>
   <string name="AlwaysUseSecureConnection">Всегда использовать безопасное подключение</string>
-  <string name="UpgradeDlgTitle">Обнаружена предыдущая версия [ProductName]</string>
+  <string name="UpgradeDlgTitle">Обновление установки</string>
   <string name="SelectAction">Выберите действие</string>
   <string name="Update">Обновить</string>
   <string name="Reinstall">Переустановить</string>
