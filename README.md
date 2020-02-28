@@ -8,6 +8,7 @@
 
 * Изменить расширение файла `wxl` на `xml`,
 * Выполнить замену:
+    * тег `WixLocalization` на `resources`,
     * тег `String` на `string`,
     * атрибута `Id`  на `name`.
 
