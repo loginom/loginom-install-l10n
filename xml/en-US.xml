@@ -63,6 +63,7 @@
   <string name="IntegratorSettingsDlgTitle">Settings</string>
   <string name="IntegratorSettingsDlgDescription">Application configuration</string>
   <string name="Site">Site</string>
+  <string name="IPAddress">IP address</string>
   <string name="Port">Port</string>
   <string name="Application">Application</string>
   <string name="ApplicationPool">Application pool</string>

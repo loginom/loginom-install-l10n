@@ -63,6 +63,7 @@
   <string name="IntegratorSettingsDlgTitle">Настройка</string>
   <string name="IntegratorSettingsDlgDescription">Конфигурация приложения</string>
   <string name="Site">Сайт</string>
+  <string name="IPAddress">IP-адрес</string>
   <string name="Port">Порт</string>
   <string name="Application">Приложение</string>
   <string name="ApplicationPool">Пул приложений</string>
