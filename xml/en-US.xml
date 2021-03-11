@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources xmlns="http://schemas.microsoft.com/wix/2006/localization" Culture="en-US">
   <string name="DowngradeErrorMessage">A later version of [ProductName] is already installed.</string>
-  <string name="MultipleServerInstallationMessage">Another edition of Loginom Server is already installed. Installing multiple Loginom Server editions is not supported by this installer.</string>
-  <string name="MultipleIntegratorInstallationMessage">Another edition of Loginom Integrator is already installed. Installing multiple Loginom Integrator editions is not supported by this installer.</string>
+  <string name="MultipleServerInstallationMessage">Another Loginom Server edition has been already installed. This installer does not provide multiple installation of several Loginom Server editions.</string>
+  <string name="MultipleIntegratorInstallationMessage">Another Loginom Integrator edition has been already installed. This installer does not provide multiple installation of several Loginom Integrator editions.</string>
   <string name="Documentation">Documentation</string>
   <string name="DocumentationOnlineLink">Online Documentation</string>
   <string name="Examples">Examples</string>
@@ -36,7 +36,7 @@
   <string name="TableauExtractAPIExtracting">Installing Tableau Extract API 2.0...</string>
   <!--UI-->
   <string name="DialogTitle">[ProductName] Setup</string>
-  <string name="WelcomeDlgDescription">The Setup Wizard will install [ProductName] [ProductFullVersion] on your computer. Click Next to continue or Cancel to exit the Setup Wizard.</string>
+  <string name="WelcomeDlgDescription">The Setup Wizard will install [ProductName] [ProductFullVersion] on your computer. Click on \"Next\" button to continue, or \"Cancel\" to exit the Setup Wizard.</string>
   <string name="AdditionalTasksDlgTitle">Select Additional Tasks</string>
   <string name="AdditionalTasksDlgDescription">What additional tasks should be performed?</string>
   <string name="InstallShortcutCaption">Create desktop shortcut</string>
@@ -55,7 +55,7 @@
   <string name="WSPort">WS port</string>
   <string name="WSSPort">WSS port</string>
   <string name="WebAppParametersDlgTitle">Loginom Studio Parameters</string>
-  <string name="WebAppCatalog">Web application catalog</string>
+  <string name="WebAppCatalog">Web application directory</string>
   <string name="WebAppURL">Web application URL</string>
   <string name="LoginomServerConnect">Loginom Server Connection</string>
   <string name="Host">Host</string>

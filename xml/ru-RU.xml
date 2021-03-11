@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<resources xmlns="http://schemas.microsoft.com/wix/2006/localization" Culture="ru-RU">
+<resources xmlns="http://schemas.microsoft.com/wix/2006/localization" Culture="en-US">
   <string name="DowngradeErrorMessage">Более новая версия [ProductName] уже установлена.</string>
   <string name="MultipleServerInstallationMessage">Другая редакция Loginom Server уже установлена. Совместная установка нескольких редакций Loginom Server не поддерживается данным установщиком.</string>
   <string name="MultipleIntegratorInstallationMessage">Другая редакция Loginom Integrator уже установлена. Совместная установка нескольких редакций Loginom Integrator не поддерживается данным установщиком.</string>
@@ -36,7 +36,7 @@
   <string name="TableauExtractAPIExtracting">Установка Tableau Extract API 2.0...</string>
   <!--UI-->
   <string name="DialogTitle">Установка [ProductName]</string>
-  <string name="WelcomeDlgDescription">Мастер установки установит [ProductName] [ProductFullVersion] на компьютере. Нажмите кнопку "Далее", чтобы продолжить, или кнопку "Отмена", чтобы выйти из мастера установки.</string>
+  <string name="WelcomeDlgDescription">Мастер установки установит [ProductName] [ProductFullVersion] на компьютере. Нажмите кнопку \"Далее\", чтобы продолжить, или кнопку \"Отмена\", чтобы выйти из мастера установки.</string>
   <string name="AdditionalTasksDlgTitle">Выберите дополнительные задачи</string>
   <string name="AdditionalTasksDlgDescription">Какие дополнительные задачи необходимо выполнить?</string>
   <string name="InstallShortcutCaption">Создать ярлык на рабочем столе</string>
