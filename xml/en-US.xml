@@ -36,7 +36,7 @@
   <string name="TableauExtractAPIExtracting">Installing Tableau Extract API 2.0...</string>
   <!--UI-->
   <string name="DialogTitle">[ProductName] Setup</string>
-  <string name="WelcomeDlgDescription">The Setup Wizard will install [ProductName] [ProductFullVersion] on your computer. Click on \"Next\" button to continue, or \"Cancel\" to exit the Setup Wizard.</string>
+  <string name="WelcomeDlgDescription">The Setup Wizard will install [ProductName] [ProductFullVersion] on your computer. Click Next to continue or Cancel to exit the Setup Wizard.</string>
   <string name="AdditionalTasksDlgTitle">Select Additional Tasks</string>
   <string name="AdditionalTasksDlgDescription">What additional tasks should be performed?</string>
   <string name="InstallShortcutCaption">Create desktop shortcut</string>
